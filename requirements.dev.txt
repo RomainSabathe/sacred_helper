@@ -1,0 +1,5 @@
+ipdb
+ipython
+pytest
+pytest-xdist
+-r requirements.txt
